@@ -11,7 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ChatBot1Application {
 
-	private static final boolean TRACE_MODE = false;
+	private static final boolean TRACE_MODE = true;
 
 	public static void main(String[] args) {
 		SpringApplication.run(ChatBot1Application.class, args);

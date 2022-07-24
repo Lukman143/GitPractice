@@ -12,6 +12,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ChatBot1Application {
 
 	private static final boolean TRACE_MODE = false;
+	int i=10;
 
 	public static void main(String[] args) {
 		SpringApplication.run(ChatBot1Application.class, args);
