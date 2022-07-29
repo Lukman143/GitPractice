@@ -13,7 +13,7 @@ public class ChatBot1Application {
 
 	private static final boolean TRACE_MODE = sk;
 	int i=10;
-	
+	private static final boolean TRACE_MODE =false;
 	
 	}
 
